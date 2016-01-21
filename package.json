@@ -1,0 +1,27 @@
+{
+  "name": "vue-starter",
+  "version": "0.0.1",
+  "description": "Vue.js + gulp + laravel-elixir skeleton",
+  "main": "resources/assets/js/app.js",
+  "author": "James Wallen-Jones",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamosaur/vie-starter.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.4.3",
+    "laravel-elixir": "^4.2.0",
+    "laravel-elixir-browserify": "^0.8.1",
+    "materialize-css": "^0.97.5",
+    "vue": "^1.0.15",
+    "vue-hot-reload-api": "^1.2.2",
+    "vue-resource": "^0.6.1",
+    "vue-router": "^0.7.9",
+    "vueify": "^8.3.2",
+    "vueify-insert-css": "^1.0.0"
+  }
+}
